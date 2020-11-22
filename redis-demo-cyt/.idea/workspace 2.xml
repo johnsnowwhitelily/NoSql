@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcc417ac-288f-4abc-8882-48226d73761f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx4096m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="runMavenInBackground" value="false" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iiXkUqg4atvygytMT2T5biJE52" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bjtu.redis.jedis" />
+      <recent name="com.bjtu.redis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Freq">
+    <configuration name="Freq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operations.Freq" />
+      <module name="redis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjtu.redis.RedisDemoApplication" />
+      <module name="redis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjtu.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="redis-demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tong" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in redis-demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisDemo.basicUse (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjtu.redis.jedis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjtu.redis.jedis" />
+      <option name="MAIN_CLASS_NAME" value="com.bjtu.redis.jedis.JedisDemo" />
+      <option name="METHOD_NAME" value="basicUse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisInstanceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjtu.redis.jedis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bjtu.redis.jedis" />
+      <option name="MAIN_CLASS_NAME" value="com.bjtu.redis.jedis.JedisInstanceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="me.rainking.redisdemo.RedisDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.RedisDemoApplication" />
+      <item itemvalue="JUnit.All in redis-demo" />
+      <item itemvalue="JUnit.JedisDemo.basicUse (1)" />
+      <item itemvalue="JUnit.JedisInstanceTest.test" />
+      <item itemvalue="Application.Freq" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Freq" />
+        <item itemvalue="JUnit.All in redis-demo" />
+        <item itemvalue="JUnit.JedisInstanceTest.test" />
+        <item itemvalue="Application.RedisDemoApplication" />
+        <item itemvalue="JUnit.JedisDemo.basicUse (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcc417ac-288f-4abc-8882-48226d73761f" name="Default Changelist" comment="" />
+      <created>1602391528293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602391528293</updated>
+      <workItem from="1602391532898" duration="609000" />
+      <workItem from="1602392193218" duration="5079000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="288" y="116" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606030687432">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="288" y="116" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1606030687432" />
+    <state x="570" y="354" key="Github.ShareDialog" timestamp="1606034741755">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="570" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1606034741755" />
+    <state x="349" y="162" key="Github.UntrackedFilesDialog" timestamp="1606033509071">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state x="349" y="162" key="Github.UntrackedFilesDialog/44.23.1396.877@44.23.1396.877" timestamp="1606033509071" />
+    <state width="1398" height="358" key="GridCell.Tab.0.bottom" timestamp="1606031114071">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.0.1440.900/-355.-1080.2048.1080@0.0.1440.900" timestamp="1602506910204" />
+    <state width="1398" height="358" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606031114071" />
+    <state width="1878" height="139" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602409002119" />
+    <state width="1398" height="358" key="GridCell.Tab.0.center" timestamp="1606031114070">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.0.1440.900/-355.-1080.2048.1080@0.0.1440.900" timestamp="1602506910201" />
+    <state width="1398" height="358" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606031114070" />
+    <state width="1878" height="139" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602409002117" />
+    <state width="1398" height="358" key="GridCell.Tab.0.left" timestamp="1606031114069">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.0.1440.900/-355.-1080.2048.1080@0.0.1440.900" timestamp="1602506910200" />
+    <state width="1398" height="358" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606031114069" />
+    <state width="1878" height="139" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602409002116" />
+    <state width="1398" height="358" key="GridCell.Tab.0.right" timestamp="1606031114070">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.0.1440.900/-355.-1080.2048.1080@0.0.1440.900" timestamp="1602506910203" />
+    <state width="1398" height="358" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606031114070" />
+    <state width="1878" height="139" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602409002118" />
+    <state x="352" y="63" key="SettingsEditor" timestamp="1606031093563">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="352" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606031093563" />
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602407336415" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1606033901995">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606033901995" />
+    <state x="354" y="237" key="new project wizard" timestamp="1602403035255">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="354" y="237" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1602403035255" />
+    <state x="558" y="248" key="svn.repositoryBrowser" timestamp="1606035456889">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="558" y="248" key="svn.repositoryBrowser/0.0.1440.900@0.0.1440.900" timestamp="1606035456889" />
+  </component>
+</project>
