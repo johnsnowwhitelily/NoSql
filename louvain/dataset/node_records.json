@@ -1,0 +1,68 @@
+﻿[
+  {
+    "n": {
+"identity": 17,
+"labels": [
+        "Community"
+      ],
+"properties": {
+"name": "A"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 18,
+"labels": [
+        "Community"
+      ],
+"properties": {
+"name": "B"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 19,
+"labels": [
+        "Community"
+      ],
+"properties": {
+"name": "C"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 20,
+"labels": [
+        "Community"
+      ],
+"properties": {
+"name": "D"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 21,
+"labels": [
+        "Community"
+      ],
+"properties": {
+"name": "E"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 22,
+"labels": [
+        "Community"
+      ],
+"properties": {
+"name": "F"
+      }
+    }
+  }
+]
